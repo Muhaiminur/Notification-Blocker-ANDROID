@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Notification Blocker</string>
+    <string name="title_activity_status__page">NOTIFICATION BLOCKER</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">NOTIFICATION BLOCKER</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="button_on">ON</string>
+    <string name="button_off">OFF</string>
+
+
+    <!--<string name="homepage_banner">719883078442032_719888621774811</string>
+    <string name="homepage_intersteller">719883078442032_719888048441535</string>
+    <string name="homepage_native">719883078442032_719887251774948</string>
+    <string name="history_banner">719883078442032_719889631774710</string>
+    <string name="history_intersteller">719883078442032_719889425108064</string>
+    <string name="history_native">719883078442032_719889078441432</string>-->
+
+
+    <string name="homepage_banner">YOUR_PLACEMENT_ID</string>
+    <string name="homepage_intersteller">YOUR_PLACEMENT_ID</string>
+    <string name="homepage_native">YOUR_PLACEMENT_ID</string>
+    <string name="history_banner">YOUR_PLACEMENT_ID</string>
+    <string name="history_intersteller">YOUR_PLACEMENT_ID</string>
+    <string name="history_native">YOUR_PLACEMENT_ID</string>
+</resources>
